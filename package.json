@@ -10,6 +10,12 @@
   "author": "rishabh",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^5.0.2"
+    "expect": "^1.20.2",
+    "mocha": "^5.0.2",
+    "rewire": "^3.0.2",
+    "supertest": "^3.0.0"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
   }
 }
